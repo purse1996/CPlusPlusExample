@@ -35,3 +35,7 @@ C++ Example
    * 可变参数
    * auto
    * Ranged-base
+
+7. book
+   * 继承和多态
+   * 虚函数，打破虚函数
