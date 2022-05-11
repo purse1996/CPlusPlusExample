@@ -31,3 +31,7 @@ C++ Example
    * unique_ptr独享智能指针，跟普通指针大小一样，不允许拷贝构造
    * weak_ptr共享指针指针，解决循环引用问题，从智能指针生成
 
+6. simple_c11
+   * 可变参数
+   * auto
+   * Ranged-base
