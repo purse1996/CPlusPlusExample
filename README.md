@@ -39,3 +39,6 @@ C++ Example
 7. book
    * 继承和多态
    * 虚函数，打破虚函数
+8. stl_test
+   * 容器vector, list等
+   * 关联容器map, set等
